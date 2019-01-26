@@ -1,0 +1,6 @@
+pbr==5.1.0
+six==1.11.0
+stevedore==1.30.0
+virtualenv==16.0.0
+virtualenv-clone==0.4.0
+virtualenvwrapper==4.8.2
